@@ -1,0 +1,10 @@
+.order-wrapper {
+  overflow-y: auto;
+  height: 100%;
+
+  .add-button-space {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 20px;
+  }
+};
